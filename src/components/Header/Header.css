@@ -1,0 +1,14 @@
+.header {
+    background-color: rgba(0, 0, 0, 0.352);
+    background-blend-mode: darken;
+    background-image: url('one.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 27.5rem;
+  }
+  
+  .header h1, .header p {
+    color: aliceblue;
+    padding: 20px; 
+  }
+  
